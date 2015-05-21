@@ -1,0 +1,13 @@
+Package: kernel-module-bitmain-spi
+Version: 1.0.0-r0.209
+Description: bitmain-spi version 1.0.0-r0
+ bitmain-spi kernel module; Bitmain asic driver
+Section: kernel/modules
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: CLOSED
+Architecture: beaglebone
+OE: bitmain-spi
+Homepage: http://www.example.com
+Depends: kernel-3.8.13
+Source: file://bitmain-asic-drv.c file://bitmain-asic.h file://fpga.c file://fpga.h file://sha2.c file://sha2.h file://spi.c file://spi.h file://Makefile

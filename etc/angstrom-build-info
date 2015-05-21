@@ -1,0 +1,42 @@
+Configured Openembedded layers:
+meta-angstrom     = angstrom-v2013.06-yocto1.4:d0f7da44d73f1af26dff0a7579394a36d3098330
+meta-oe           
+meta-efl          
+meta-gpe          
+meta-gnome        
+meta-xfce         
+meta-initramfs    
+toolchain-layer   
+meta-multimedia   
+meta-networking   
+meta-webserver    
+meta-ruby         = angstrom-staging-yocto1.4:2f6f4b70ba03d80f9ddc1e005b9cb5176e328beb
+meta-kde          = angstrom-staging-yocto1.4:25c0a44462efc8b71ac3f3abfdfda89bbc2a6af2
+meta-opie         = master:c242efc6ca55772a88602f1f8f94dff697b38430
+meta-java         = master:7fb9465e5c2db618eedb59de5e5e013fd86cc06d
+meta-browser      = dylan:2140f2a114f7009f86479afb12a524bb157cbb0e
+meta-mono         = master:ac286b1682e6bcc486ceb30ef90a936949bbfeab
+meta-ros          = master:f69c619237e325e40b710b0c61e17b4e46eaf872
+common-bsp        = unknown:unknown
+meta-ti           = angstrom-staging-yocto1.4:04418dcadb0e3429029f34c6885538fb10624187
+meta-efikamx      = master:07f2a5c777b4f866985735303bc6d696592760a9
+meta-nslu2        = master:8948458fe3ec2b3c713b2a13a87123b64e22b0d9
+meta-htc          
+meta-nokia        
+meta-openmoko     
+meta-palm         = master:41c5c86813aefc21ace53edc4d3b469e9e7f87f3
+meta-handheld     = master:1dd57dcf14056901e25d8a661a7507b7d85b5a64
+meta-intel        
+meta-sugarbay     
+meta-crownbay     
+meta-emenlow      
+meta-fri2         
+meta-jasperforest 
+meta-n450         = dylan:adf8e9229f772d0882587e0fec43f56e617ca39f
+meta-minnow       = dylan:d5849d5ea14bc9b34ddd05b92c3a7ea46bd1863a
+meta-raspberrypi  = dylan:770b88b2ce696fddd2fdb99bbcd894a43b519f48
+meta-linaro       
+meta-linaro-toolchain = dylan:7ab5e76aac4344e1a228b620f469e868e7914f2f
+meta-bitmainer    = unknown:unknown
+meta              = angstrom-staging-yocto1.4:4ea94d58591603da605b9a8806b4c9dce8f59f04
+

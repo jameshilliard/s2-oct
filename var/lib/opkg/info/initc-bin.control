@@ -1,0 +1,13 @@
+Package: initc-bin
+Version: 1.0-r0.79
+Description: initc-bin version 1.0-r0
+ Initc application for production images for bitmainers
+Section: base
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: GPLv2
+Architecture: armv7ahf-vfp-neon
+OE: initc-bin
+Homepage: unknown
+Depends: libc6 (>= 2.17)
+Source: file://initc file://spitop_noncerev.rbf file://initc.sh file://initc_emmc_flash.sh file://eeprom.dump file://spi-test file://asic_test file://inita file://waas file://COPYING
